@@ -12,9 +12,9 @@ from aiogram.exceptions import TelegramBadRequest
 BOT_TOKEN = "8260330510:AAHLseb65AyJm5G8wO0YFvMP7O3HJ2Y-kls"  # @BotFather dan olingan token
 ADMIN_IDS = [8292713568, 8292713568]      # O'zingizning va ikkinchi adminning Telegram ID raqami
 CHANNEL_ID = -1002714951758                  # Kanal ID raqami (-100 bilan boshlanadi)
-GROUP_ID = -1002845765181                    # Guruh ID raqami (-100 bilan boshlanadi)
+GROUP_ID = -1002669474162                    # Guruh ID raqami (-100 bilan boshlanadi)
 CHANNEL_LINK = "https://t.me/portfolio_1213312_port"  # To'liq kanal linki
-GROUP_LINK = "https://t.me/nahalboyev1quiz"    # To'liq guruh linki
+GROUP_LINK = "https://t.me/ARZUACADEMY"    # To'liq guruh linki
 
 # Loggingni sozlash
 logging.basicConfig(level=logging.INFO)
